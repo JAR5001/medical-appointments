@@ -7,3 +7,5 @@ Dataset: Medical Appointment No Shows (https://www.kaggle.com/datasets/joniarrob
 Bias Tests: Equal Accuracy, Demographic Parity, Equal Opportunity
 
 Model: Logistic Regression
+
+Code: Python in Jupyter Notebook
